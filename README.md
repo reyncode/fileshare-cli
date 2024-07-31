@@ -1,0 +1,1 @@
+The official CLI for [fileshare](https://github.com/reyncode/fileshare).
